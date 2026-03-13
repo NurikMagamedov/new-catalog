@@ -15,10 +15,6 @@ title: Получение статистики скачиваний CashFlow и 
 
 3. Получение статистики по **42Clouds**: зайдите по данной ссылке - <https://cp.42clouds.com/partners>.
 
-   Логин - [mail@gp-it.ru](mailto:mail@gp-it.ru)
-
-   Пароль - IddqdIdkfa3305!
-
 4. Слева найдите «**Партнёрам и разработчикам**»
 
    ![](./poluchenie-statistiki-skachivaniy-cashflow-i-pnl-3.png){width=253px height=941px}
